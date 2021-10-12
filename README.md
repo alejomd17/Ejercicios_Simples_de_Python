@@ -20,6 +20,8 @@ Exploración visual de datos
 
 Correlaciones y Covarianzas
 
+Machine Learning (Fundamentos)
+
 Regresión Lineal
 
 Regresión Logística
