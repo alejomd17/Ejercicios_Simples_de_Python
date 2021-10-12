@@ -17,3 +17,8 @@
   ### Introducción a Redes: TensorFlow
   
   ### Y muchos más
+  
+  ale
+  koko
+  
+  klk
