@@ -1,5 +1,5 @@
 # Ejercicios de Python
-##Temas:
+## Temas:
   Datos simples
   Cadenas
   Numpy
